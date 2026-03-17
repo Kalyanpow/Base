@@ -7,3 +7,4 @@ nook
 buuj
 loo
 coom
+look
